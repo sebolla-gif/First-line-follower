@@ -1,7 +1,5 @@
 # First-line-follower
 
-Este repositorio contiene el código del primer seguidor de línea con sensores digitales desarrollado en el Club de Robótica y Electrónica Aplicada (CREA) de la Universidad Nacional de San Martín.
-
 ## Descripción
 
 Este proyecto consiste en un seguidor de línea básico que utiliza cinco sensores infrarrojos digitales para detectar una línea negra sobre una superficie blanca. Dependiendo de la lectura de los sensores, el robot ajusta la velocidad y dirección de sus motores para seguir la línea.
